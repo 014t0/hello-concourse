@@ -6,4 +6,4 @@ image_resource:
   source: {repository: busybox}
 
 run:
-  path: hello-concourse/hello.sh
+  path: hello.sh
